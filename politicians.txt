@@ -1,0 +1,41 @@
+ACCOUNT 			COUNTRY 			FOLLOWERS
+@realDonaldTrump 		United States 			56M
+
+@Pontifex 			Vatican 			47M
+
+@narendramodi 			India 				44M
+
+@RT_Erdogan 			Turkey 				13M
+
+@SushmaSwaraj 			India 				12M
+
+@jokowi 			Indonesia 			10M
+
+@QueenRania 			Jordan 				10M
+
+@HHShkMohd 			United Arab Emirates 		9M
+
+@ImranKhanPTI 			Pakistan 			8M
+
+@KingSalman 			Saudi Arabia 			7M
+
+@MedvedevRussia 		Russia 				4M
+
+@lopezobrador_ 			Mexico 				4M
+
+@mauriciomacri			Argentina			4M
+
+@JustinTrudeau			Canada				4M
+
+@ABZayed			United Arab Emirates		4M
+
+@EmmanuelMacron			France				3M
+
+@KremlinRussia			Russia				3M
+
+@SBYudhoyono			Indonesian			10M
+
+@NicolasMaduro			Venezuela			3M
+
+@jairbolsonaro			Brazil				2M
+
