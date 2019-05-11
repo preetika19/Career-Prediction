@@ -1,0 +1,42 @@
+Twitter		Country	Followers
+
+@justinbieber	Canada	37M
+
+@ladygaga	USA	36M
+
+@katyperry	USA	35M
+
+@rihanna	USA	29M
+
+@taylorswift13	USA	26M
+
+@britneyspears	USA	25M
+
+@shakira	Colombia	20M
+
+@jtimberlake	USA	19M
+
+@JLo		USA	16M
+
+@NICKIMINAJ	USA	16M
+
+@BrunoMars	USA	15M
+
+@Pink		USA	14M
+
+@selenagomez	USA	14M
+
+@Drake		USA	38M
+
+@ArianaGrande	USA	61M
+
+@Adele		United Kingdom	13M
+
+@aliciakeys	USA	12M
+
+@chrisbrown	USA	12M
+
+@Harry_Styles	United Kingdom	12M
+
+@MileyCyrus	USA	11M
+
