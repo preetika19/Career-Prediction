@@ -15,10 +15,10 @@ import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
 from collections import Counter
 
-ckey='2aVoN4HLmXXyrYP4SY9u3hFdO'
-csecret='06esow282t9RAcYNaO0fVFWlL4KcaItZsWuO83oHcUO3mBPJe5'
-atoken='1092793465535168512-GDDk4TRBSknA36RbU0bCIU8zX2MSlK'
-asecret='pQEUsIKRpoqhRuSCCZUUZhy5zgSnDTpNOgrJeV1gk7Qb1'
+ckey=''
+csecret=''
+atoken=''
+asecret=''
 auth=tweepy.OAuthHandler(ckey, csecret)
 auth.set_access_token(atoken, asecret)
 api=tweepy.API(auth)
